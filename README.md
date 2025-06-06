@@ -16,7 +16,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| DNS, DHCP, PS and Basic Networking          | <a href="https://google.com">AD Lab</a>|
+| DNS, DHCP, PS and Basic Networking          | <a href="https://github.com/ecankaya1/ActiveDirectoryLab">ActiveDirectory Lab</a>|
 
 
 ## Certifications
@@ -27,4 +27,4 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 </div>
 
 ## Projects
-- Active Directory Lab
+- <a href="https://github.com/ecankaya1/ActiveDirectoryLab">ActiveDirectory Lab</a>
